@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.skills {
+    margin-bottom: 20px;
+}
+
+.skills h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.skill-list {
+    list-style: none;
+    padding: 0;
+}
+
+.skill-list li {
+    margin-bottom: 10px;
+}
+
+.skill-list li strong {
+    font-weight: bold;
+}
+
+.skill-list li em {
+    font-style: italic;
+}
